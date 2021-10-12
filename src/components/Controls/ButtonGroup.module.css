@@ -1,0 +1,38 @@
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.button-group-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.custom {
+  min-width: 7rem;
+  flex: 1.4rem;
+}
+
+.custom input {
+  height: 100%;
+}
+
+.custom input::placeholder {
+  font-size: 20px;
+}
+
+.button-group-buttons button {
+  flex: 1;
+}
+
+.button-group-buttons .active {
+  background-color: hsl(172, 67%, 45%);
+}
+
+.button-group-label {
+  color: hsl(186, 14%, 43%);
+	font-weight: 700;
+}
