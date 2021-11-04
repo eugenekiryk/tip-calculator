@@ -7,7 +7,7 @@ Bootstrapped with [Create React App](https://github.com/facebook/create-react-ap
 
 ## Demo
 
-See here: [Tip Calculator Demo](tip-calculator-tau-five.vercel.app).
+See here: [Tip Calculator Demo](https://tip-calculator-tau-five.vercel.app).
 
 ## Get started
 
